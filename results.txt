@@ -1,0 +1,24 @@
+
+Results of Search:
+Search term 'how' starts at line 0 position 0
+Search term 'how' starts at line 5 position 96
+
+Results of Sorting in Ascending Order:
+how now brown cow
+1 2 3 4 5 6 7 8 
+1 2 4 4 4 5 6 7 
+1 2 3 7 
+livevil
+the purpose of life is to challenge yourself and explore the limits of your abilities otherwise how would you push those limits.
+
+Results of Sorting in Descending Order:
+how now brown cow
+8 7 6 5 4 3 2 1 
+7 6 5 4 4 4 2 1 
+7 3 2 1 
+livevil
+the purpose of life is to challenge yourself and explore the limits of your abilities otherwise how would you push those limits.
+
+Results of Count:
+The most common character is e it is used 10 times
+The least common character is sit is used 0 times
